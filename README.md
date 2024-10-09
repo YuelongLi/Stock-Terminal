@@ -1,7 +1,11 @@
 # Stock Terminal
-Project screenshots:
-![imgs/2020-04-07 (18.png)](imgs/2020-04-07%20(18).png)
-![imgs/2022-07-01%20(4).png](imgs/2022-07-01%20(4).png)
-![imgs/2022-01-04%20(1).png](imgs/2022-01-04%20(1).png)
-![imgs/2020-07-03%20(2).png](imgs/2020-07-03%20(2).png)
-![imgs/2023-01-09%20(1).png](imgs/2023-01-09%20(1).png)
+## Console
+![imgs/entry.png](imgs/Entry.png)
+## Strategy Pipeline
+![imgs/pipeline.png](imgs/Pipeline.png)
+## Backtesting
+![imgs/backtest1.png](imgs/backtest1.png)
+![imgs/backtest2.png](imgs/backtest2.png)
+## Strategy Analysis
+![imgs/strategy.png](imgs/strategy.png)
+Testing strategies that operate in an effective market.
